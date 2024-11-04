@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE example [
+    <!ENTITY redirect SYSTEM "https://sixmediaa.com/en">
+]>
+<root>
+    <message>&redirect;</message>
+</root>
